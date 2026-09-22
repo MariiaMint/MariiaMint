@@ -3,7 +3,7 @@
   <img src="./assets/7ac18136-f866-4d5e-8115-12b41878df90.png" width="100%" />
 </p>
 
-### Привет, ты на гите Константиновой Марии
+### Привет! Это GitHub Марии Константиновой
 
 📱 Mobile Development  
 ☕ Backend Development  
