@@ -8,13 +8,9 @@
 <!-- Статистика gh аккаунта -->
 ## ✨ Языки
 
-<table>
-  <tr>
-    <td style="border: none">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariiaMint&theme=monokai" alt="Repo Languages">
-    </td>
-</table>
-
+<p align="center">
+  <img src="./languages.svg" alt="Languages used across my public GitHub repositories">
+</p>
 
 ## 🔮 Проекты
 
