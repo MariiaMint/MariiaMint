@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/7ac18136-f866-4d5e-8115-12b41878df90.png" width="100%" />
+  <img src="./assets/banner.jpg" width="100%" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&pause=800\&color=FF0055\&repeat=true\&width=900\&lines=Привет!+Это+GitHub+Марии+Константиновой)](https://git.io/typing-svg)
