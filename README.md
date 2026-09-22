@@ -7,9 +7,7 @@
 
 <!-- Статистика gh аккаунта -->
 
-## <img src="icons/stats.png" alt="stats" width="32" height="32" style="vertical-align: middle;"/> Статистика профиля
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariiaMint&theme=2077" alt="Profile Details">
+## 🚀 Языки
 
 <table>
   <tr>
