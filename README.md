@@ -18,52 +18,78 @@
 
 ## 🔮 Проекты
 
-<table width="100%">
+## ✦ Проекты
+
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
+### 🩺 [My MedBook](https://github.com/MariiaMint/diploma-project)
 
-### 🩺 Моя медицинская книжка
+Мобильное приложение для хранения медицинских данных: анализов, врачей, заключений и медицинских событий.
 
-Мобильное приложение для хранения медицинских анализов, информации о врачах и медицинских событиях.
-
-**Языки:**  
-`Kotlin`
-
-**Технологии:**  
-`Jetpack Compose` · `Material 3`
-
-[→ GitHub](#)
+**Стек:**
+`Kotlin` `Jetpack Compose` `Room` `SQLite` `SQLCipher` `Gradle`
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
+### 🎯 [MVP Quiz Service](https://github.com/MariiaMint/mvp-quiz-service)
 
-🎯 MVP Quiz Service
+MVP-платформа для проведения квизов в реальном времени с комнатами, синхронными вопросами и лидербордом.
 
-Платформа для проведения квизов в реальном времени с комнатами, синхронными вопросами и лидербордом.
-
-Языки:
-`TypeScript` · `JavaScript`
-
-Технологии:
-`Angular 19` · `Node.js` · `Express` · `SQLite` · `Socket.IO`
-
-→ GitHub
+**Стек:**
+`Angular 19` `TypeScript` `Node.js` `Express` `SQLite` `Socket.IO`
 
 </td>
+</tr>
 
-<td valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
+<tr>
+<td width="50%" valign="top">
 
-⚙️ Forth Stack Processor
+### 🧩 [SOA Lab 2](https://github.com/MariiaMint/SOA-lab2)
 
-Учебная реализация стекового процессора и транслятора для Forth-подобного языка программирования.
+Сервис-ориентированная система из двух backend-сервисов и Angular-клиента с взаимодействием через REST API.
 
-Язык:
-`Python`
-
-→ GitHub
+**Стек:**
+`Java` `Spring Boot` `Spring MVC` `Hibernate` `PostgreSQL` `Angular` `TypeScript`
 
 </td>
+<td width="50%" valign="top">
 
-</tr> </table>
+### 🔐 [Secure API](https://github.com/MariiaMint/InfoBez_lab1)
+
+Учебный REST API с JWT-аутентификацией и демонстрацией защиты от SQL Injection и XSS.
+
+**Стек:**
+`Java 17` `Spring Boot` `Spring Security` `JWT` `JPA` `H2` `BCrypt`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Forth Stack Processor](https://github.com/MariiaMint/ForthStackProcessor)
+
+Эмулятор стекового процессора и транслятор для Forth-подобного языка программирования.
+
+Реализованы lexer, parser, генерация машинных инструкций, ALU, Control Unit, Data Path и стек вызовов.
+
+**Стек:**
+`Python` `Lexer` `Parser` `ALU` `Control Unit` `Data Path`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Marketplace
+
+Микросервисное приложение маркетплейса с каталогом товаров, корзиной и оформлением заказа.
+
+**Стек:**
+`Kotlin` `Spring Boot` `PostgreSQL` `Cassandra` `Kafka` `REST API`
+
+</td>
+</tr>
+</table>
+
