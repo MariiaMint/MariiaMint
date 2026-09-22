@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**MariiaMint/MariiaMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Mariia, a Software Developer
 
-Here are some ideas to get you started:
+📱 Mobile Development  
+☕ Backend Development  
+🎨 UI & 3D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📱 Mobile
+
+| Project | Description | Stack |
+|---|---|---|
+| **My Medical Book** | Личная медицинская книжка | Kotlin · Compose |
+| **Zdravo** | Приложение для здоровья | Kotlin · Compose |
+
+---
+
+## ☕ Backend
+
+| Project | Description | Stack |
+|---|---|---|
+| **Marketplace** | Маркетплейс | Kotlin · Spring |
+| **Organizations** | Работа с организациями | Java · Spring · Angular |
+
+---
+
+## 🛠 Tech Stack
+
+```text
+Kotlin       ████████████████████
+Java         ███████████████
+Spring       ███████████████
+Angular      ████████████
+Android      █████████████████
+PostgreSQL   ██████████████
