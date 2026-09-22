@@ -1,0 +1,38 @@
+name: Update languages card
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate languages.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: MariiaMint
+          OUTPUT_FILE: languages.svg
+          INCLUDE_FORKS: "false"
+        run: python .github/scripts/generate_languages.py
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to languages.svg"
+          else
+            git commit -m "chore: update languages card"
+            git push
+          fi
