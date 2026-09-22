@@ -37,21 +37,33 @@
 
 </td>
 
-<td width="50%" valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
+<td valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
 
-### 🛒 Marketplace
+🎯 MVP Quiz Service
 
-Микросервисное приложение с каталогом товаров, корзиной и оформлением заказа.
+Платформа для проведения квизов в реальном времени с комнатами, синхронными вопросами и лидербордом.
 
-**Языки:**  
-`Kotlin`
+Языки:
+`TypeScript` · `JavaScript`
 
-**Технологии:**  
-`Spring Boot` · `PostgreSQL` · `Cassandra` · `Kafka`
+Технологии:
+`Angular 19` · `Node.js` · `Express` · `SQLite` · `Socket.IO`
 
-[→ GitHub](#)
+→ GitHub
 
 </td>
 
-</tr>
-</table>
+<td valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
+
+⚙️ Forth Stack Processor
+
+Учебная реализация стекового процессора и транслятора для Forth-подобного языка программирования.
+
+Язык:
+`Python`
+
+→ GitHub
+
+</td>
+
+</tr> </table>
