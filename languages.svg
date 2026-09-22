@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Languages used across public repositories of MariiaMint">
+  <rect width="100%" height="100%" rx="24" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="518" rx="23" fill="none" stroke="#30363D"/>
+  <style>
+    .title { font: 700 25px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #F0F6FC; }
+    .subtitle { font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #8B949E; }
+    .lang { font: 600 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; fill: #E6EDF3; }
+  </style>
+  <text x="32" y="42" class="title">✨ Languages across my repositories</text>
+  <text x="32" y="68" class="subtitle">MariiaMint · public repositories · all detected languages</text>
+  <text x="32" y="91" class="subtitle">This card is regenerated automatically by GitHub Actions.</text>
+
+  <g transform="translate(0 118)"><circle cx="28" cy="18" r="6" fill="#A97BFF"/><text x="48" y="23" class="lang">Kotlin</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="530" height="18" rx="9" fill="#A97BFF"/></g>
+  <g transform="translate(0 164)"><circle cx="28" cy="18" r="6" fill="#B07219"/><text x="48" y="23" class="lang">Java</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="430" height="18" rx="9" fill="#B07219"/></g>
+  <g transform="translate(0 210)"><circle cx="28" cy="18" r="6" fill="#3178C6"/><text x="48" y="23" class="lang">TypeScript</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="370" height="18" rx="9" fill="#3178C6"/></g>
+  <g transform="translate(0 256)"><circle cx="28" cy="18" r="6" fill="#F1E05A"/><text x="48" y="23" class="lang">JavaScript</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="310" height="18" rx="9" fill="#F1E05A"/></g>
+  <g transform="translate(0 302)"><circle cx="28" cy="18" r="6" fill="#3572A5"/><text x="48" y="23" class="lang">Python</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="250" height="18" rx="9" fill="#3572A5"/></g>
+  <g transform="translate(0 348)"><circle cx="28" cy="18" r="6" fill="#E34C26"/><text x="48" y="23" class="lang">HTML</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="210" height="18" rx="9" fill="#E34C26"/></g>
+  <g transform="translate(0 394)"><circle cx="28" cy="18" r="6" fill="#563D7C"/><text x="48" y="23" class="lang">CSS</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="170" height="18" rx="9" fill="#563D7C"/></g>
+  <g transform="translate(0 440)"><circle cx="28" cy="18" r="6" fill="#E38C00"/><text x="48" y="23" class="lang">SQL</text><rect x="235" y="8" width="530" height="18" rx="9" fill="#21262D"/><rect x="235" y="8" width="130" height="18" rx="9" fill="#E38C00"/></g>
+</svg>
