@@ -11,30 +11,35 @@
 
 ---
 
-## 📱 Mobile
+## 🚀 Проекты
 
-| Project | Description | Stack |
-|---|---|---|
-| **My Medical Book** | Личная медицинская книжка | Kotlin · Compose |
-| **Zdravo** | Приложение для здоровья | Kotlin · Compose |
+<table>
+<tr>
+<td width="50%">
 
----
+### 🩺 Моя медицинская книжка
 
-## ☕ Backend
+Мобильное приложение для хранения медицинских анализов, информации о врачах и медицинских событиях.
 
-| Project | Description | Stack |
-|---|---|---|
-| **Marketplace** | Маркетплейс | Kotlin · Spring |
-| **Organizations** | Работа с организациями | Java · Spring · Angular |
+**Kotlin · Jetpack Compose**
 
----
+[→ GitHub](#)
 
-## 🛠 Tech Stack
+</td>
+<td width="50%">
 
-```text
-Kotlin       ████████████████████
-Java         ███████████████
-Spring       ███████████████
-Angular      ████████████
-Android      █████████████████
-PostgreSQL   ██████████████
+### 🛒 Marketplace
+
+Микросервисное приложение с каталогом товаров, корзиной и оформлением заказа.
+
+**Kotlin · Spring Boot · PostgreSQL · Cassandra · Kafka**
+
+[→ GitHub](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 Organizations
