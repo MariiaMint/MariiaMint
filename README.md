@@ -7,47 +7,51 @@
 
 <!-- Статистика gh аккаунта -->
 
-## 🚀 Языки
+## ✨ Языки
 
 <table>
   <tr>
     <td style="border: none">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariiaMint&theme=2077" alt="Repo Languages">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariiaMint&theme=monokai" alt="Repo Languages">
     </td>
 </table>
----
 
-## 🚀 Проекты
+## 🔮 Проекты
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
 
 ### 🩺 Моя медицинская книжка
 
 Мобильное приложение для хранения медицинских анализов, информации о врачах и медицинских событиях.
 
-**Kotlin · Jetpack Compose**
+**Языки:**  
+`Kotlin`
+
+**Технологии:**  
+`Jetpack Compose` · `Material 3`
 
 [→ GitHub](#)
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top" style="border: 1px solid #8B7AA8; padding: 16px;">
 
 ### 🛒 Marketplace
 
 Микросервисное приложение с каталогом товаров, корзиной и оформлением заказа.
 
-**Kotlin · Spring Boot · PostgreSQL · Cassandra · Kafka**
+**Языки:**  
+`Kotlin`
+
+**Технологии:**  
+`Spring Boot` · `PostgreSQL` · `Cassandra` · `Kafka`
 
 [→ GitHub](#)
 
 </td>
+
 </tr>
-
-<tr>
-<td width="50%">
-
-
-
----
+</table>
